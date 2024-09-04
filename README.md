@@ -1,4 +1,4 @@
-# Associative Memories Experiments
+# Support Vector Machines in the Diagnosis and Treatment of Fibromyalgia Experiments and Data
 This repository contains the data and procedures to replicate the expermients presented in the paper 
 
 Application of Support Vector Machines in the Diagnosis and Treatment of Fibromyalgia
